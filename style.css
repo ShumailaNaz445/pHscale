@@ -1,0 +1,93 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+body{
+  
+    color: rgb(8, 8, 223) ;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px;
+    text-indent: 20px;
+}
+h1{
+  
+    background-color: #D3D3D3;
+    color: blue;
+    padding:20px;
+    font family: capitalized;
+    margin:0%;
+    
+}
+p{
+    padding:5px;
+    margin:0px;
+}
+p.zero{
+    background-color: rgb(255, 52, 127);
+}
+p.one{
+   background-color:rgb(255, 77, 142);
+}
+p.two{
+    background-color: rgb(255, 81, 145, 0.945);
+}
+p.three{
+    background-color: rgb(255, 99, 156);
+}
+p.four{
+    background-color: rgb(253, 113, 165);
+}
+p.five{
+    background-color: rgb(255, 140, 182);
+}
+p.six{
+    background-color: rgb(255, 152, 190, 0.973);
+}
+p.seven{
+    background-color: rgb(16, 145, 33);
+}
+p.eight{
+    background-color: rgb(178, 205, 248);
+}
+p.nine{
+    background-color: rgb(161, 194, 250);
+}
+p.ten{
+    background-color: rgb(131, 177, 250);
+}
+p.eleven{
+    background-color: rgb(69, 168, 235);
+}
+p.twelve{
+    background-color: rgb(90, 150, 247);
+}
+p.thirteen{
+    background-color: rgb(83, 143, 240);
+}
+p.fourteen{
+    background-color: rgb(39, 119, 247);
+}
+h2{
+    color: rgb(187, 9, 9);
+margin: 10px;
+}
+/* p.table{
+    text-decoration-line: weavy;
+} */
+p.pic{
+    text-align: right;
+}
+.pic{display: inline block;
+
+}
+.parent{
+    display: inline ;
+}
+.head{
+    text-shadow:5px 5px 7px red ;
+}
+.head{
+    color: black;
+    text-decoration-line: underline;
+}
